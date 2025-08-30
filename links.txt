@@ -1,0 +1,6 @@
+Maratona:
+    - https://docs.google.com/spreadsheets/d/1T6D5S4okDtRfIX03qU_x3eqFoeCbl9zWCZO_ketVBLo/edit?gid=991366945#gid=991366945
+    - https://usaco.guide/CPH.pdf
+    - https://youkn0wwho.academy/topic-list
+    - https://github.com/wmrmrx/icpc-notebook
+    - https://github.com/brunomaletta
