@@ -1,0 +1,8 @@
+# executáveis
+*.exe
+
+# temporários do compilador
+*.obj
+*.out
+*.o
+*.log
